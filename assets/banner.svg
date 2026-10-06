@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">POMO Project Workspace</title>
+  <desc id="desc">A warm ivory banner with coral and slate geometric development cards.</desc>
+  <rect width="1200" height="320" rx="18" fill="#f8f3eb"/>
+  <path d="M782 0V320M942 0V320M1102 0V320M720 80H1200M720 160H1200M720 240H1200" stroke="#e9e1d6" stroke-width="1"/>
+  <rect x="64" y="63" width="30" height="4" rx="2" fill="#dc765c"/>
+  <text x="64" y="102" fill="#657174" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">PROJECT WORKSPACE</text>
+  <text x="60" y="194" fill="#28373b" font-family="Segoe UI,Arial,sans-serif" font-size="88" font-weight="800" letter-spacing="-4">POMO<tspan fill="#dc765c">.</tspan></text>
+  <text x="64" y="245" fill="#657174" font-family="Segoe UI,Arial,sans-serif" font-size="21">Ideas into code. Projects in progress.</text>
+  <g transform="translate(827 52) rotate(-8 70 70)">
+    <rect x="6" y="7" width="142" height="142" rx="20" fill="#e5ddd0"/>
+    <rect width="142" height="142" rx="20" fill="#28373b"/>
+    <circle cx="21" cy="22" r="3" fill="#dc765c"/><circle cx="33" cy="22" r="3" fill="#b6c8bb"/><circle cx="45" cy="22" r="3" fill="#f8f3eb"/>
+    <path d="M47 62L27 81L47 100M95 62L115 81L95 100M82 54L61 108" fill="none" stroke="#f8f3eb" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(974 133) rotate(8 69 69)">
+    <rect x="6" y="7" width="138" height="138" rx="20" fill="#e5ddd0"/>
+    <rect width="138" height="138" rx="20" fill="#dc765c"/>
+    <rect x="30" y="31" width="78" height="16" rx="5" fill="#f8f3eb"/>
+    <rect x="30" y="61" width="49" height="16" rx="5" fill="#f8f3eb" opacity=".8"/>
+    <rect x="30" y="91" width="65" height="16" rx="5" fill="#f8f3eb" opacity=".55"/>
+  </g>
+  <circle cx="801" cy="261" r="10" fill="#b6c8bb"/>
+  <circle cx="1136" cy="71" r="5" fill="#dc765c"/>
+</svg>
